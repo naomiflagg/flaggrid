@@ -9,3 +9,7 @@ The template was built using SCSS.
 ## Purpose
 
 The purpose of the project was to build a simple, CSS 12-grid template for current and future use.
+
+## Notes
+
+The template includes Eric Meyer's CSS reset as its first component.
